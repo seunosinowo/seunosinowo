@@ -11,7 +11,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/seunosinowo22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="seunosinowo22" height="30" width="40" /></a>
-<a href="https://.linkedin.com/in/seun-osinowo-0174a1215/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/seun-osinowo-0174a1215/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/seun-osinowo-0174a1215/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/seun-osinowo-0174a1215/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/16301319/seun-osinowo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/16301319/seun-osinowo" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/seun_osinowo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/seun_osinowo/" height="30" width="40" /></a>
 
